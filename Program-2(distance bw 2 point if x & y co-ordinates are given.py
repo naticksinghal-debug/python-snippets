@@ -7,5 +7,5 @@ d= int(input("Enter the value of y2: "))
 s= (a+b+c)/2
 e= ((b-a)**2 + (d-c)**2)**0.5
 print("distance between the two co=ordinates: ",e)
-print("SAKSHAM ROHILLA")
+print("Naitik")
        
